@@ -2,8 +2,8 @@ package com.xj.Builder;
   
 
 /**
- * 我们将创建一个 People 接口和实现 People 接口的实体类。下一步是定义工厂类 PeopleFactory。
-FactoryPatternDemo，我们的演示类使用 PeopleFactory 来获取 People 对象。它将向 PeopleFactory 传递信息（CIRCLE / RECTANGLE / SQUARE），以便获取它所需对象的类型。
+ * 我们将创建一个 InterfacetoPeople 接口和实现 InterfacetoPeople 接口的实体类。AmericaPeople、ChinaPeople、JapanPeople 都实现该类
+
  *@Title:  
  *@Description:  
  *@Author:Administrator  
